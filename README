@@ -1,10 +1,11 @@
+Kinect Face recognition
 
 This project discusses solutions to a specific facial recognition problem characterized by
 1)  Real time video based recognition 
 2)  High resolution RGB data and depth data as input 
 
 The inbuilt face model recognition of Kinect V2 requires a feedback from the user to calliberate and generate a 3D model of 
-the face. 
-This is not feasible for real time applications.
-This code uses time efficient face recognition methods of EmguCV library for input frames from kinect camera.
+the face for recognizing it. This is not feasible for real time applications.
+
+This code uses real time face recognition methods of EmguCV library for input frames from kinect camera.
 Please refer to the chm documentation for implementation details.
