@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Emgu.CV.Shape</name>
+    </assembly>
+    <members>
+        <member name="T:Emgu.CV.Shape.HistogramCostExtractor">
+            <summary>
+            Abstract base class for histogram cost algorithms.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.HistogramCostExtractor.DisposeObject">
+            <summary>
+            Release the histogram cost extractor
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Shape.NormHistogramCostExtractor">
+            <summary>
+            A norm based cost extraction.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.NormHistogramCostExtractor.#ctor(Emgu.CV.CvEnum.DistType,System.Int32,System.Single)">
+            <summary>
+            Create a norm based cost extraction.
+            </summary>
+            <param name="flag">Distance type</param>
+            <param name="nDummies">Number of dummies</param>
+            <param name="defaultCost">Default cost</param>
+        </member>
+        <member name="T:Emgu.CV.Shape.EMDHistogramCostExtractor">
+            <summary>
+            An EMD based cost extraction.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.EMDHistogramCostExtractor.#ctor(Emgu.CV.CvEnum.DistType,System.Int32,System.Single)">
+            <summary>
+            Create an EMD based cost extraction.
+            </summary>
+            <param name="flag">Distance type</param>
+            <param name="nDummies">Number of dummies</param>
+            <param name="defaultCost">Default cost</param>
+        </member>
+        <member name="T:Emgu.CV.Shape.ChiHistogramCostExtractor">
+            <summary>
+            An Chi based cost extraction.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.ChiHistogramCostExtractor.#ctor(System.Int32,System.Single)">
+            <summary>
+            Create an Chi based cost extraction.
+            </summary>
+            <param name="nDummies">Number of dummies</param>
+            <param name="defaultCost">Default cost</param>
+        </member>
+        <member name="T:Emgu.CV.Shape.EMDL1HistogramCostExtractor">
+            <summary>
+            An EMD-L1 based cost extraction.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.EMDL1HistogramCostExtractor.#ctor(System.Int32,System.Single)">
+            <summary>
+            Create an EMD-L1 based cost extraction.
+            </summary>
+            <param name="nDummies">Number of dummies</param>
+            <param name="defaultCost">Default cost</param>
+        </member>
+        <member name="T:Emgu.CV.Shape.ShapeInvoke">
+            <summary>
+            Library to invoke functions that belongs to the shape module
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Shape.ShapeDistanceExtractor">
+            <summary>
+            Abstract base class for shape distance algorithms.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.ShapeDistanceExtractor.ComputeDistance(System.Drawing.Point[],System.Drawing.Point[])">
+            <summary>
+            Compute the shape distance between two shapes defined by its contours.
+            </summary>
+            <param name="contour1">Contour defining first shape</param>
+            <param name="contour2">Contour defining second shape</param>
+            <returns>The shape distance between two shapes defined by its contours.</returns>
+        </member>
+        <member name="T:Emgu.CV.Shape.ShapeContextDistanceExtractor">
+            <summary>
+            Implementation of the Shape Context descriptor and matching algorithm proposed by Belongie et al. in “Shape Matching and Object Recognition Using Shape Contexts” (PAMI 2002). 
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.ShapeContextDistanceExtractor.#ctor(Emgu.CV.Shape.HistogramCostExtractor,Emgu.CV.Shape.ShapeTransformer,System.Int32,System.Int32,System.Single,System.Single,System.Int32)">
+            <summary>
+            Create a shape context distance extractor
+            </summary>
+            <param name="comparer">The histogram cost extractor</param>
+            <param name="transformer">The shape transformer</param>
+            <param name="nAngularBins">Establish the number of angular bins for the Shape Context Descriptor used in the shape matching pipeline.</param>
+            <param name="nRadialBins">Establish the number of radial bins for the Shape Context Descriptor used in the shape matching pipeline.</param>
+            <param name="innerRadius">Set the inner radius of the shape context descriptor.</param>
+            <param name="outerRadius">Set the outer radius of the shape context descriptor.</param>
+            <param name="iterations">Iterations</param>
+        </member>
+        <member name="M:Emgu.CV.Shape.ShapeContextDistanceExtractor.DisposeObject">
+            <summary>
+            Release the memory associated with this shape context distance extractor
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Shape.HausdorffDistanceExtractor">
+            <summary>
+            A simple Hausdorff distance measure between shapes defined by contours, according to the paper “Comparing Images using the Hausdorff distance.” by D.P. Huttenlocher, G.A. Klanderman, and W.J. Rucklidge. (PAMI 1993).
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.HausdorffDistanceExtractor.#ctor(Emgu.CV.CvEnum.DistType,System.Single)">
+            <summary>
+            Create Hausdorff distance extractor
+            </summary>
+            <param name="distanceFlag">Rhe norm used to compute the Hausdorff value between two shapes. It can be L1 or L2 norm.</param>
+            <param name="rankProp">The rank proportion (or fractional value) that establish the Kth ranked value of the partial Hausdorff distance. Experimentally had been shown that 0.6 is a good value to compare shapes.</param>
+        </member>
+        <member name="M:Emgu.CV.Shape.HausdorffDistanceExtractor.DisposeObject">
+            <summary>
+            Release the memory associated with this Hausdorff distance extrator
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Shape.ShapeTransformer">
+            <summary>
+            Abstract base class for shape transformation algorithms.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.ShapeTransformer.DisposeObject">
+            <summary>
+            Release the unmanaged memory associated with this ShapeTransformer object
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Shape.ThinPlateSplineShapeTransformer">
+            <summary>
+            Definition of the transformation ocupied in the paper “Principal Warps: Thin-Plate Splines and Decomposition of Deformations”, by F.L. Bookstein (PAMI 1989).
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.ThinPlateSplineShapeTransformer.#ctor(System.Double)">
+            <summary>
+            Create a thin plate spline shape transformer
+            </summary>
+            <param name="regularizationParameter">The regularization parameter for relaxing the exact interpolation requirements of the TPS algorithm.</param>
+        </member>
+        <member name="T:Emgu.CV.Shape.AffineTransformer">
+            <summary>
+            Wrapper class for the OpenCV Affine Transformation algorithm.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Shape.AffineTransformer.#ctor(System.Boolean)">
+            <summary>
+            Create an affine transformer
+            </summary>
+            <param name="fullAffine">Full affine</param>
+        </member>
+    </members>
+</doc>

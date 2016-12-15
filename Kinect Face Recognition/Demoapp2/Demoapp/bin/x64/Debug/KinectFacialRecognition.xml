@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KinectFacialRecognition</name>
+    </assembly>
+    <members>
+        <member name="T:KinectFacialRecognition.Classifier">
+            <summary>
+            Desingned to remove the training a EigenObjectRecognizer code, recognize logic from the main class
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.Classifier.#ctor">
+            <summary>
+            Default Constructor, Looks in (Application.StartupPath + "\\TrainedFaces") for training data.
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.Classifier.#ctor(System.String)">
+            <summary>
+            Takes String input to a different location for training data
+            </summary>
+            <param name="Training_Folder"></param>
+        </member>
+        <member name="M:KinectFacialRecognition.Classifier.Recognise(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},System.Int32)">
+            <summary>
+            Recognise a Grayscale Image using the trained Eigen Recogniser
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.Classifier.LoadTrainingData(System.String)">
+            <summary>
+            Loads the traing data given a (string) folder location
+            </summary>
+            <param name="Folder_location"></param>
+            <returns></returns>
+        </member>
+        <member name="P:KinectFacialRecognition.Classifier.IsTrained">
+            <summary>
+            gets the status of recognizer
+            </summary>
+        </member>
+        <member name="P:KinectFacialRecognition.Classifier.Get_Eigen_Label">
+            <summary>
+            Returns a string containg the recognised persons name
+            </summary>
+        </member>
+        <member name="P:KinectFacialRecognition.Classifier.Get_Eigen_Distance">
+            <summary>
+            Returns a float confidence value for potential false clasifications
+            </summary>
+        </member>
+        <member name="T:KinectFacialRecognition.ColorBitmapGenerator">
+            <summary>
+            Creates a bitmap representation of a Kinect color frame.
+            </summary>
+        </member>
+        <member name="F:KinectFacialRecognition.ColorBitmapGenerator._pixels">
+            <summary>
+            Returns the RGB pixel values.
+            </summary>
+        </member>
+        <member name="F:KinectFacialRecognition.ColorBitmapGenerator._width">
+            <summary>
+            Returns the width of the bitmap.
+            </summary>
+        </member>
+        <member name="F:KinectFacialRecognition.ColorBitmapGenerator._height">
+            <summary>
+            Returns the height of the bitmap.
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.ColorBitmapGenerator.Update(Microsoft.Kinect.ColorFrame)">
+            <summary>
+            Updates the bitmap with new frame data.
+            </summary>
+            <param name="frame">The specified Kinect color frame.</param>
+        </member>
+        <member name="P:KinectFacialRecognition.ColorBitmapGenerator.Bitmap">
+            <summary>
+            Returns the actual bitmap.
+            </summary>
+        </member>
+        <member name="T:KinectFacialRecognition.ColorExtensions">
+            <summary>
+            Provides some common functionality for manipulating color frames.
+            </summary>
+        </member>
+        <member name="F:KinectFacialRecognition.ColorExtensions._bitmapGenerator">
+            <summary>
+            The color bitmap creator.
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.ColorExtensions.ToWriteableBitmap(Microsoft.Kinect.ColorFrame)">
+            <summary>
+            Converts a color frame to a System.Media.Imaging.BitmapSource.
+            </summary>
+            <param name="frame">The specified color frame.</param>
+            <returns>The bitmap representation of the specified color frame.</returns>
+        </member>
+        <member name="T:KinectFacialRecognition.extensions">
+            <summary>
+            Designed to Create utility methods to convert between OpenCv image format and Bitmap/ BitmapSource formats(WPF)
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.extensions.ToBitmap(Microsoft.Kinect.ColorFrame)">
+            <summary>
+            Converts a kinects colorFrame to  bitmap from
+            </summary>
+            <param name="frame"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.extensions.ToBitmapSource(System.Drawing.Bitmap)">
+            <summary>
+            Converts a Bitmap to BitmapSorce
+            </summary>
+            <param name="bitmap"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.extensions.ToOpenCVImage``2(Microsoft.Kinect.ColorFrame)">
+            <summary>
+            Converts ColorFrame to OpenCv Image
+            </summary>
+            <typeparam name="TColor"></typeparam>
+            <typeparam name="TDepth"></typeparam>
+            <param name="image"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.extensions.GetBitmap(System.Windows.Media.Imaging.BitmapSource)">
+            <summary>
+            Converts BitmapSource to Bitmap
+            </summary>
+            <param name="source"></param>
+            <returns></returns>
+        </member>
+        <member name="T:KinectFacialRecognition.FacialRecognition">
+            <summary>
+            Provides access to methods requried 
+            </summary>
+        </member>
+        <member name="F:KinectFacialRecognition.FacialRecognition.ImagestoWrite">
+            <summary>
+            Variables needed to save Jpg and xml
+            </summary>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.get_EigenRecog">
+            <summary>
+            getter method for Eigen_Recog
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.IsTrained">
+            <summary>
+            gets status of the recognizer
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.assignIDtoface(Microsoft.Kinect.BodyFrame,System.Collections.Generic.IList{Microsoft.Kinect.Body},Microsoft.Kinect.Face.FaceFrameSource)">
+            <summary>
+            Assigns a tracking ID to face from Body tracking ID
+            </summary>
+            <param name="bodyFrame"></param>
+            <param name="_bodies"></param>
+            <param name="_faceSource"></param>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.drawRect(System.Windows.Media.Imaging.WriteableBitmap,Microsoft.Kinect.Face.FaceFrameResult)">
+            <summary>
+            Draws a rectangle on the face in the bitmap
+            </summary>
+            <param name="colorBitmap"></param>
+            <param name="faceFrameResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.takefacesnapshot(System.Windows.Media.Imaging.WriteableBitmap,Microsoft.Kinect.Face.FaceFrameResult)">
+            <summary>
+            Takes a snapshot of the face present in the given Bitmap, preprocesses it and converts it to open CV image
+            </summary>
+            <param name="colorBitmap"></param>
+            <param name="faceFrameResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.Recognize(System.Windows.Media.Imaging.WriteableBitmap,Microsoft.Kinect.Face.FaceFrameResult,KinectFacialRecognition.Classifier)">
+            <summary>
+            Recognizes  the face present in the colorBitmap and returns a string with name and confidence separated by space
+            </summary>
+            <param name="colorBitmap"></param>
+            <param name="faceFrameresult"></param>
+            <param name="Eigen_Recog"></param>
+            returns "" if faceSnapshot is null or no data loaded
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.Recognize(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},KinectFacialRecognition.Classifier)">
+            <summary>
+            Recognizes  the face present in the faceSnapshot and returns a string with name and confidence separated by space
+            </summary>
+            <param name="faceSnapshot"></param>
+            <param name="Eigen_Recog"></param>
+            returns "" if faceSnapshot is null or no data loaded
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:KinectFacialRecognition.FacialRecognition.train(System.Windows.Media.Imaging.WriteableBitmap,Microsoft.Kinect.Face.FaceFrameResult,System.String)" -->
+        <member name="M:KinectFacialRecognition.FacialRecognition.train(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},System.String)">
+            <summary>
+            Trains  the face present in the faceSnapshot and returns a string with name and confidence separated by space
+            </summary>
+            <param name="faceSnapshot"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.reload(KinectFacialRecognition.Classifier)">
+            <summary>
+            Reloads the  training data and updates the recognizer
+            </summary>
+            <param name="Eigen_recog"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.getfaceRectangle(Microsoft.Kinect.Face.FaceFrameResult)">
+            <summary>
+            Returns the face coordinates from the faceFrameResult
+            </summary>
+            <param name="result"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.GetEncoder(System.Drawing.Imaging.ImageFormat)">
+            <summary>
+            Returns the codec for the image format
+            </summary>
+            <param name="format"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KinectFacialRecognition.FacialRecognition.save_training_data(System.Drawing.Image,System.String)">
+            <summary>
+            Creates/Updates the face trained in the folder, their Jpg and the XML file associated with them.
+            </summary>
+            <param name="face_data"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

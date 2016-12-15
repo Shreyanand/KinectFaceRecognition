@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Emgu.CV.Superres</name>
+    </assembly>
+    <members>
+        <member name="T:Emgu.CV.Superres.FrameSource">
+            <summary>
+            Create a video frame source
+            </summary>
+        </member>
+        <member name="F:Emgu.CV.Superres.FrameSource._frameSourcePtr">
+            <summary>
+            The pointer to the frame source
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Superres.FrameSource.#ctor(System.String,System.Boolean)">
+            <summary>
+            Create video frame source from video file
+            </summary>
+            <param name="fileName">The name of the file</param>
+            <param name="tryUseGpu">If true, it will try to create video frame source using gpu</param>
+        </member>
+        <member name="M:Emgu.CV.Superres.FrameSource.#ctor(System.Int32)">
+            <summary> Create a framesource using the specific camera</summary>
+            <param name="camIndex"> The index of the camera to create capture from, starting from 0</param>
+        </member>
+        <member name="M:Emgu.CV.Superres.FrameSource.NextFrame(Emgu.CV.IOutputArray)">
+            <summary>
+            Get the next frame
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Superres.FrameSource.DisposeObject">
+            <summary>
+            Release all the unmanaged memory associated with this framesource
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Superres.SuperResolution">
+            <summary>
+            Supper resolution
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Superres.SuperResolution.#ctor(Emgu.CV.Superres.SuperResolution.OpticalFlowType,Emgu.CV.Superres.FrameSource)">
+            <summary>
+            Create a super resolution solver for the given frameSource
+            </summary>
+            <param name="type">The type of optical flow algorithm to use</param>
+            <param name="frameSource">The frameSource</param>
+        </member>
+        <member name="M:Emgu.CV.Superres.SuperResolution.DisposeObject">
+            <summary>
+            Release all the unmanaged memory associated to this object
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Superres.SuperResolution.OpticalFlowType">
+            <summary>
+            The type of optical flow algorithms used for super resolution
+            </summary>
+        </member>
+        <member name="F:Emgu.CV.Superres.SuperResolution.OpticalFlowType.Btvl">
+            <summary>
+            BTVL
+            </summary>
+        </member>
+        <member name="F:Emgu.CV.Superres.SuperResolution.OpticalFlowType.Btvl1Gpu">
+            <summary>
+            BTVL using gpu
+            </summary>
+        </member>
+    </members>
+</doc>

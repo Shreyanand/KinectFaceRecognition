@@ -1,0 +1,116 @@
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.ML.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.XML
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.XML
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.XML
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.XML
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.ML.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\ZedGraph.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\KinectFacialRecognition_sourceFile\KinectFacialRecognition\obj\Debug\KinectFacialRecognition.pdb

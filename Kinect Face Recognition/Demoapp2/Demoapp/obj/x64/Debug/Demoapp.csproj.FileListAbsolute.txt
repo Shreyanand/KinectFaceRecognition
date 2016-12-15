@@ -1,0 +1,181 @@
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Demoapp.exe.config
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\cvextern.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\msvcp120.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\msvcr120.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\opencv_ffmpeg300_64.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Demoapp.exe
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Demoapp.pdb
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.ML.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.OCR.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Shape.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Stitching.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Superres.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.UI.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.UI.GL.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.VideoStab.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.Util.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\KinectFacialRecognition.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\ZedGraph.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.ML.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.OCR.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Shape.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Stitching.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.Superres.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.UI.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.UI.GL.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.CV.VideoStab.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Emgu.Util.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.csprojResolveAssemblyReference.cache
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\MainWindow.baml
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\MainWindow.g.cs
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\App.g.cs
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp_Content.g.cs
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp_MarkupCompile.cache
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.g.resources
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.Properties.Resources.resources
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.csproj.GenerateResource.Cache
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.exe
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\obj\x64\Debug\Demoapp.pdb
+c:\users\shrey\documents\visual studio 2013\Projects\Demoapp\Demoapp\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Emgu.Util.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.baml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\App.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_MarkupCompile.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.g.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.Properties.Resources.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csproj.GenerateResource.Cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\cvextern.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\msvcp120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\msvcr120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_Content.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\cvextern.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\msvcp120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\msvcr120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.baml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\App.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_Content.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_MarkupCompile.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.g.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.Properties.Resources.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csproj.GenerateResource.Cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\cvextern.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\msvcp120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\msvcr120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.baml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\App.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_Content.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_MarkupCompile.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.g.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.Properties.Resources.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 2\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csproj.GenerateResource.Cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe.config
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\cvextern.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\msvcp120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\msvcr120.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.exe
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Demoapp.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.Util.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.dll
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csprojResolveAssemblyReference.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.baml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\MainWindow.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\App.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_Content.g.cs
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp_MarkupCompile.cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.g.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.Properties.Resources.resources
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\obj\x64\Debug\Demoapp.csproj.GenerateResource.Cache
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\KinectFacialRecognition.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Contrib.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\shrey\Documents\Visual Studio 2013\Projects\Final Folder 3\Demoapp2\Demoapp\bin\x64\Debug\Emgu.CV.Cuda.xml

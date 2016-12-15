@@ -1,0 +1,19 @@
+﻿<Window x:Class="Demoapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="732" Width="996">
+    <Grid>
+        <Image Name="Image" Margin="0,0,265,70" Stretch="Fill"  />
+        <TextBox Name="RECOGNIZED_PERSON" Margin="876,557,0,98"/>
+        <TextBox Name="NAME_PERSON" Margin="866,205,15,452" Text="Enter Name"/>
+        <Button Name="Train" Margin="745,205,127,452" Click="Train_Click" Content="TRAIN"/>
+        <Button Name="Recog" Margin="745,557,127,98" Content="RECOGNIZE" Click="Recognize_Click"/>
+        <Button Name="RELO" Margin="804,280,64,373" Content="RELOAD" Click="RELOAD_Click" />
+        <Image Name="imageBox1" Margin="804,64,64,517"  />
+        <Image Name="imageBox2" Margin="804,392,64,186"    />
+        <TextBox x:Name="text" Margin="228,646,347,10"/>
+        <Label Margin="728,10,10,657" Content="&#x9;IMAGE TO BE TRAINED"></Label>
+        <Label Margin="728,353,10,314" Content="&#x9;IMAGE TO BE RECOGNIZED"/>
+
+    </Grid>
+</Window>

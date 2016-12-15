@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Emgu.CV.Stitching</name>
+    </assembly>
+    <members>
+        <member name="T:Emgu.CV.Stitching.FeaturesFinder">
+            <summary>
+            Finds features in the given image.
+            </summary>
+        </member>
+        <member name="F:Emgu.CV.Stitching.FeaturesFinder.FeaturesFinderPtr">
+            <summary>
+            Pointer to the unmanaged FeaturesFinder object
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Stitching.OrbFeaturesFinder">
+            <summary>
+            ORB features finder.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Stitching.OrbFeaturesFinder.#ctor(System.Drawing.Size,System.Int32,System.Single,System.Int32)">
+            <summary>
+            Creates an ORB features finder
+            </summary>
+            <param name="gridSize">Use (3, 1) for default grid size </param>
+            <param name="nFeature">The number of desired features. </param>
+            <param name="scaleFactor">Coefficient by which we divide the dimensions from one scale pyramid level to the next.</param>
+            <param name="nLevels">The number of levels in the scale pyramid. </param>
+        </member>
+        <member name="M:Emgu.CV.Stitching.OrbFeaturesFinder.DisposeObject">
+            <summary>
+            Release all the unmanaged memory associated with this FeaturesFinder
+            </summary>
+        </member>
+        <member name="T:Emgu.CV.Stitching.Stitcher">
+            <summary>
+            Image Stitching.
+            </summary>
+        </member>
+        <member name="M:Emgu.CV.Stitching.Stitcher.#ctor(System.Boolean)">
+            <summary>
+            Creates a stitcher with the default parameters.
+            </summary>
+            <param name="tryUseGpu">If true, the stitcher will try to use GPU for processing when available</param>
+        </member>
+        <member name="M:Emgu.CV.Stitching.Stitcher.Stitch(Emgu.CV.IInputArray,Emgu.CV.IOutputArray)">
+            <summary>
+            Compute the panoramic images given the images
+            </summary>
+            <param name="images">The input images. This can be, for example, a VectorOfMat</param>
+            <param name="pano">The panoramic image</param>
+            <returns>true if successful</returns>
+        </member>
+        <member name="M:Emgu.CV.Stitching.Stitcher.DisposeObject">
+            <summary>
+            Release memory associated with this stitcher
+            </summary>
+        </member>
+    </members>
+</doc>
